@@ -1,6 +1,6 @@
 # [Sergei Lenik](https://www.linkedin.com/in/sergei-lenik-821291447)
 
-<img src="avatar.jpg" align="right" width="250" alt="Sergei Lenik" />
+<img src=".github/avatar.jpg" align="right" width="250" alt="Sergei Lenik" />
 
 **Python Backend Developer, 3 years of experience**
 
