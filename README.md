@@ -1,4 +1,4 @@
-<img src="avatar.jpg" align="right" width="280" alt="Sergei Lenik" />
+<img src="avatar.jpg" align="right" width="180" alt="Sergei Lenik" />
 
 # [Sergei Lenik](https://www.linkedin.com/in/sergei-lenik-821291447)
 
@@ -8,9 +8,11 @@ leniksergey@gmail.com · +84 343 271 065 · Telegram: [@SergeiLenik](https://t.m
 
 [LinkedIn](https://www.linkedin.com/in/sergei-lenik-821291447) · [GitHub](https://github.com/leniksergey)
 
-## About
+### About
 
 Python backend developer specializing in building scalable web applications, REST APIs, and microservices using Django, DRF, Flask, and FastAPI. Proficient in database optimization (PostgreSQL, SQLite), task queues (Redis, Celery), Docker containerization, and Git-based workflows. Looking for a remote Python backend role.
+
+<br clear="left"/>
 
 ## Skills
 
