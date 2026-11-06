@@ -1,0 +1,38 @@
+# [Sergei Lenik](https://www.linkedin.com/in/sergei-lenik-821291447)
+
+**Python Backend Developer, 3 years of experience**
+
+leniksergey@gmail.com · +84 343 271 065 · Telegram: [@SergeiLenik](https://t.me/SergeiLenik) · UTC+7, Remote
+
+[LinkedIn](https://www.linkedin.com/in/sergei-lenik-821291447) · [GitHub](https://github.com/leniksergey)
+
+---
+
+## About
+
+Python backend developer specializing in building scalable web applications, REST APIs, and microservices using Django, DRF, Flask, and FastAPI. Proficient in database optimization (PostgreSQL, SQLite), task queues (Redis, Celery), Docker containerization, and Git-based workflows. Looking for a remote Python backend role.
+
+## Skills
+
+- **Languages:** Python, SQL, Bash
+- **Frameworks:** Django, Django REST Framework, Flask, FastAPI, python-telegram-bot
+- **Databases & Caching:** PostgreSQL, SQLite, Redis, Peewee ORM, SQLAlchemy
+- **Tools & DevOps:** Git, GitHub, GitLab, Docker, Docker Compose, Celery, Pytest, Pylint, Nginx
+
+## Experience
+
+**Python Backend Developer**, 2023 – Present
+
+- **Megano** (Django, DRF, Vue.js, Celery, Redis) — Architectural design and backend development for an e-commerce platform. Integrated Vue.js frontend with RESTful APIs and set up background processing for notifications and orders. [GitHub](https://github.com/leniksergey/python-django-shop)
+- **VDKcity Telegram Bot** (Python, Peewee, SQLite, Docker) — Automated real-estate booking service. Designed booking calendar logic, database management, and synchronization with external booking sources. [GitHub](https://github.com/leniksergey/vdkcity-telegram-bot)
+- **CRM System** (Django, PostgreSQL, Pytest) — Internal customer management system featuring custom authentication, role-based access control, and automated query optimization. [GitHub](https://github.com/leniksergey/crm)
+- **PromptFlow Web App** (Flask, Docker) — Web service designed for managing and orchestrating prompt execution workflows. Integrated test suites using Pytest. [GitHub](https://github.com/leniksergey/Flask-PromptFlow)
+
+## Education
+
+**Far Eastern State Technical Fisheries University**  
+Bachelor's Degree in International Economics, 2013
+
+## Additional
+
+- **Languages:** English — Working Proficiency
