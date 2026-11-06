@@ -19,14 +19,14 @@ Python backend developer specializing in building scalable web applications, RES
 - **Databases & Caching:** PostgreSQL, SQLite, Redis, Peewee ORM, SQLAlchemy
 - **Tools & DevOps:** Git, GitHub, GitLab, Docker, Docker Compose, Celery, Pytest, Pylint, Nginx
 
-## Experience
+## Projects & Experience
 
-**Python Backend Developer**, 2023 – Present
+Here are my key portfolio projects showcasing backend architecture, REST APIs, and database management:
 
-- **Megano** (Django, DRF, Vue.js, Celery, Redis) — Architectural design and backend development for an e-commerce platform. Integrated Vue.js frontend with RESTful APIs and set up background processing for notifications and orders. [GitHub](https://github.com/leniksergey/python-django-shop)
-- **VDKcity Telegram Bot** (Python, Peewee, SQLite, Docker) — Automated real-estate booking service. Designed booking calendar logic, database management, and synchronization with external booking sources. [GitHub](https://github.com/leniksergey/vdkcity-telegram-bot)
-- **CRM System** (Django, PostgreSQL, Pytest) — Internal customer management system featuring custom authentication, role-based access control, and automated query optimization. [GitHub](https://github.com/leniksergey/crm)
-- **PromptFlow Web App** (Flask, Docker) — Web service designed for managing and orchestrating prompt execution workflows. Integrated test suites using Pytest. [GitHub](https://github.com/leniksergey/Flask-PromptFlow)
+- **[Megano](https://github.com/leniksergey/python-django-shop)** (Django, DRF, Vue.js, Celery, Redis) — Architectural design and backend development for an e-commerce platform. Integrated Vue.js frontend with RESTful APIs and set up background processing for notifications and orders.
+- **[VDKcity Telegram Bot](https://github.com/leniksergey/vdkcity-telegram-bot)** (Python, Peewee, SQLite, Docker) — Automated real-estate booking service. Designed booking calendar logic, database management, and synchronization with external booking sources.
+- **[CRM System](https://github.com/leniksergey/crm)** (Django, PostgreSQL, Pytest) — Internal customer management system featuring custom authentication, role-based access control, and automated query optimization.
+- **[PromptFlow Web App](https://github.com/leniksergey/Flask-PromptFlow)** (Flask, Docker) — Web service designed for managing and orchestrating prompt execution workflows. Integrated test suites using Pytest.
 
 ## Education
 
