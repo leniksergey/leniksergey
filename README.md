@@ -10,7 +10,7 @@ leniksergey@gmail.com · +84 343 271 065 · Telegram: [@SergeiLenik](https://t.m
 
 ### About
 
-Python backend developer specializing in building scalable web applications, ...
+Python backend developer specializing in building scalable web applications, REST APIs, and microservices using Django, DRF, Flask, and FastAPI. Proficient in database optimization (PostgreSQL, SQLite), task queues (Redis, Celery), Docker containerization, and Git-based workflows. Looking for a remote Python backend role.
 
 <br clear="all"/>
 
