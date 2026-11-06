@@ -1,4 +1,4 @@
-<img src="avatar.jpg" align="right" width="140" style="border-radius: 50%;" alt="Sergei Lenik" />
+<img src="avatar.jpg" align="right" width="180" alt="Sergei Lenik" />
 
 # [Sergei Lenik](https://www.linkedin.com/in/sergei-lenik-821291447)
 
@@ -7,8 +7,6 @@
 leniksergey@gmail.com · +84 343 271 065 · Telegram: [@SergeiLenik](https://t.me/SergeiLenik) · UTC+7, Remote
 
 [LinkedIn](https://www.linkedin.com/in/sergei-lenik-821291447) · [GitHub](https://github.com/leniksergey)
-
----
 
 ## About
 
