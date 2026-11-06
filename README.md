@@ -1,4 +1,4 @@
-<img src="avatar.jpg" align="right" width="180" alt="Sergei Lenik" />
+<img src="avatar.jpg" align="right" width="280" alt="Sergei Lenik" />
 
 # [Sergei Lenik](https://www.linkedin.com/in/sergei-lenik-821291447)
 
