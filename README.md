@@ -1,3 +1,5 @@
+<img src="avatar.jpg" align="right" width="140" style="border-radius: 50%;" alt="Sergei Lenik" />
+
 # [Sergei Lenik](https://www.linkedin.com/in/sergei-lenik-821291447)
 
 **Python Backend Developer, 3 years of experience**
