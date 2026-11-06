@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/d539731c-e396-4857-8a55-eb3814ad5428" align="right" width="250" alt="Sergei Lenik" />
 
-**Python Backend Developer, 3 years of experience**
+**Python Backend Developer, 1 years of experience**
 
 leniksergey@gmail.com · +84 343 271 065 · Telegram: [@SergeiLenik](https://t.me/SergeiLenik) · UTC+7, Remote
 
